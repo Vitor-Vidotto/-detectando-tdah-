@@ -11,11 +11,15 @@ Este projeto utiliza Machine Learning para identificar possíveis indícios de *
 Fonte: [Twitter Dataset for Mental Disorders Detection](https://ieee-dataport.org/documents/twitter-dataset-mental-disorders-detection)
 
 O dataset contém tweets categorizados em:
-- `Adhd`
-- `Depression`
-- `PTSD`
-- `Control`
-- `e Entre outros`
+- `TDAH`
+- `Ansiedade`
+- `Autismo`
+- `Bipolaridade`
+- `Depressão`
+- `Transtornos alimentares`
+- `TOC`
+- `Esquizofrenia`
+- `Estresse pós-traumático`
 
 Neste projeto, focamos na distinção entre `Adhd` e `Control`.
 
