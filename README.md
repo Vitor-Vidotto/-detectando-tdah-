@@ -21,7 +21,7 @@ O dataset contém tweets categorizados em:
 - `Esquizofrenia`
 - `Estresse pós-traumático`
 
-Neste projeto, focamos na distinção entre `Adhd` e `Control`.
+Neste projeto, focamos na distinção entre `TDAH` e `Usuários Saudáveis`.
 
 ---
 
