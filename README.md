@@ -15,7 +15,7 @@ O dataset contém tweets categorizados em:
 - `Depression`
 - `PTSD`
 - `Control`
-  
+- `e Entre outros`
 Neste projeto, focamos na distinção entre `Adhd` e `Control`.
 
 ---
